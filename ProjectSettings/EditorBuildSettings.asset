@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Haunted-Janut-John.unity
+    guid: f1e2ea20ecde2b94ea1ee5e89a0e75fa
   m_configObjects: {}
